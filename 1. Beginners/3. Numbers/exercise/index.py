@@ -1,0 +1,5 @@
+print(10 + 20)
+print(30 - 50)
+print(7 * 8)
+print(42 / 6)
+print(42 // 6)
