@@ -30,5 +30,3 @@
   - Once the counter reaches 0, print a message like "Time's up!"
 
 **Note:** Functionality like `time.sleep(1)` might not be available in all environments.
-
-This organization clarifies the purpose and steps involved in each challenge.

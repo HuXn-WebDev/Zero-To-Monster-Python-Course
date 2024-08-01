@@ -21,9 +21,3 @@ This document explores working with tuples in Python. We'll cover creating tuple
 
 - Create a tuple with student information (name, age, grade).
 - Use tuple unpacking to assign these values to separate variables.
-
-**Improvements:**
-
-- Added a title for the document.
-- Used descriptive bullet points for each challenge.
-- Clarified the purpose of Challenge 3.
